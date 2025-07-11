@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675566896861",
+    "project_id": "abs-leads",
+    "storage_bucket": "abs-leads.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675566896861:android:4ead1924da79ebba427d34",
+        "android_client_info": {
+          "package_name": "com.absedu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuFUxO2ZNL6_0chvVg9kIgPUFQ3myKOxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675566896861:android:9cb4c8f53fcb7b43427d34",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuFUxO2ZNL6_0chvVg9kIgPUFQ3myKOxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

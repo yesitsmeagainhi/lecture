@@ -1,6 +1,5 @@
-/**
- * @format
- */
+// VERY TOP — before any navigation imports
+import 'react-native-gesture-handler';
 
 import { AppRegistry } from 'react-native';
 import App from './App';
